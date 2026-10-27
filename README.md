@@ -1,0 +1,2 @@
+# kushi
+my new project
